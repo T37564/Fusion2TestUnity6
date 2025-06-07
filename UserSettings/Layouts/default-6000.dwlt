@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Fusion Tutorial/obj/Debug/net10.0
+    - Assets/Fusion Tutorial
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
