@@ -286,6 +286,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   networkRunnerPrefab: {fileID: 3269448007941574367, guid: 319e8592d860d40d294164c7370ce035, type: 3}
+  playerAvatarPrefab:
+    RawGuidValue: 00000000000000000000000000000000
 --- !u!4 &352611813
 Transform:
   m_ObjectHideFlags: 0
